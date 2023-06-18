@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.topcontainer{
+    background-color: #E4F9F5;
+    padding-top: 40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+}
+.top-cloud{
+    position: relative;
+    left: 350px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin: 50px auto 0px;
+    color: #66BFBF;
+}
+.title-para{
+    font-size:1rem;
+    color: #66BFBF;
+}
+.img-profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 80px;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+.batminton{
+    height: 150px;
+    width: 230px;
+    margin-left: 30px;
+    border-radius: 5%;
+}
+.bottom-container{
+    padding-top: 10px;
+    background-color: #66BFBF;
+    padding-top: 50px;
+}
+.bottom-container a{
+    margin: 60px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+    color: #11999E;
+}
+.bottom-container a:hover{
+    color: black;
+}
+.profile-para{
+    color: #40514E;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin: 0 auto 80px;
+    width: 303px;
+}
+hr{
+    border-color: #e0e7e7;
+    width: 5%;
+    border-width: 7px;
+    border-style:dotted none none;
+}
+.myskills{
+    margin: 80px 0;
+}
+.skill-row1{
+    display:flex;
+    font-weight: bold;
+    font-size: 0.9rem;
+    text-align: left;
+    margin: 0 auto;
+    width: 600px;
+}
+.contact-me-para{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    width: 450px;
+    margin: 49px auto;
+}
+.btn{
+    text-decoration: none;
+    padding: 8px;
+    background-color: #66BFBF;
+    color: white;
+    border-radius: 8%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+}
+.contact-me{
+    margin: 80px 0;
+}
